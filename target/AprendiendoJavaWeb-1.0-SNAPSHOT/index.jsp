@@ -13,5 +13,10 @@
     </head>
     <body>
         <h1>Hello World desde HTML!</h1>
+        <!--
+        <%%>
+        -->
+        <% String hola = "Hola mundo desde Java";%>
+        <%= hola%>
     </body
 </html>
