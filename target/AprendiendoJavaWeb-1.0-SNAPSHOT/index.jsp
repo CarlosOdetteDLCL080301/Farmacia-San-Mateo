@@ -13,9 +13,9 @@
     </head>
     <body>
         <h1>Hello World desde HTML!</h1>
-        <!--
-        <%%>
-        -->
+        <%-- 
+        <%  %> Agrego este comentario, ya que en mi teclado resulta pesado, hacer los simbolos de menor y mayor que...
+        --%>
         <% String hola = "Hola mundo desde Java";%>
         <%= hola%>
     </body
